@@ -1,1 +1,0 @@
-import{P as r}from"./popupEditor-2b_cs7GJ.js";import{C as t}from"./index-aTT1_R0R.js";class s extends r{constructor(o=null){super(o)}Render(){t.LoadScript("https://unpkg.com/monaco-editor@0.45.0/min/vs/loader.js").then(()=>{super.Render()})}}export{s as ComponentEditor};
