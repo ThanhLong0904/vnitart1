@@ -1,0 +1,1 @@
+import{P as r}from"./popupEditor-DuAxkyy0.js";import{C as t}from"./index-W9HDreQW.js";class p extends r{constructor(o=null){super(o)}Render(){t.LoadScript("https://unpkg.com/monaco-editor@0.45.0/min/vs/loader.js").then(()=>{super.Render()})}}export{p as SectionEditor};

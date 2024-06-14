@@ -1,1 +1,0 @@
-import{P as r}from"./popupEditor-Beiltu3z.js";import{C as t}from"./index-BGvit1fw.js";class p extends r{constructor(o=null){super(o)}Render(){t.LoadScript("https://unpkg.com/monaco-editor@0.45.0/min/vs/loader.js").then(()=>{super.Render()})}}export{p as SectionEditor};
