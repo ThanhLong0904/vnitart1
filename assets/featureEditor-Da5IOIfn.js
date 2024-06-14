@@ -1,1 +1,0 @@
-import{P as o}from"./popupEditor-DuAxkyy0.js";import{C as e}from"./index-W9HDreQW.js";class p extends o{constructor(r=null){super(r)}Render(){e.LoadScript("https://unpkg.com/monaco-editor@0.45.0/min/vs/loader.js").then(()=>{super.Render()})}}export{p as FeatureEditor};
